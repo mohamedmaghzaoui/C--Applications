@@ -1,12 +1,10 @@
 using System;
 using System.Collections.Generic;
-
 class Contact
 {
     public string Nom { get; set; }
     public string Numero { get; set; }
 }
-
 class Program
 {
     static List<Contact> contacts = new List<Contact>();
