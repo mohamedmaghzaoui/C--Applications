@@ -141,7 +141,7 @@ class Program
         }
     }
 
-//realisé par Piere
+//realisé par Pierre
     static void SearchContact()
     {
         Console.Write("nom du contact à rechercher: ");
@@ -158,7 +158,7 @@ class Program
         }
     }
 
-//realisé par Mohamed Maghzaoui
+//realisé par Aziz Kabissa
     static void DisplayContacts()
     {
         if (contacts.Count == 0)
